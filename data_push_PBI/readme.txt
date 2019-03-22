@@ -1,0 +1,1 @@
+Generates random data and pushes via REST API to Power BI
